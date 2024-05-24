@@ -339,7 +339,6 @@ li {
 th {
     text-align: center;
     padding: 7px;
-    /* color: white; */
 }
 
 .list-cards table .head {
@@ -350,15 +349,8 @@ th {
 
 .list-cards table {
     margin-top: 1rem;
-    /* border-collapse: separate; */
     border-spacing: 0.5em;
 }
-
-/* table tr th .status-bg {
-    background-color: rgb(173, 13, 13);
-    border-radius: 30px;
-    width: 7rem;
-} */
 
 .list {
     display: flex;
