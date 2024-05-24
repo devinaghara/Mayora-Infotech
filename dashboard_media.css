@@ -614,7 +614,7 @@
     }
 
     .btn-download {
-        margin-right: 28px;
+        margin-right: 15px;
         font-size: 20px;
         width: 23%;
     }
@@ -625,6 +625,7 @@
 
     .home-cards {
         height: 20%;
+        width: 96%;
     }
 
     .home-cards li i {
